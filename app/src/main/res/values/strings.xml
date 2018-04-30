@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ConfiguraBluetooth</string>
+    <string name="txt_boton_enciende">Encender Bluetooth</string>
+</resources>
